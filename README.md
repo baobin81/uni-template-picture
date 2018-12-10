@@ -9,8 +9,21 @@
 
 ## 运行方式
 
-将项目拖入[HBuilderX](http://www.dcloud.io/hbuilderx.html),直接运行即可
+将项目拖入[HBuilderX](http://www.dcloud.io/hbuilderx.html),直接运行即可<br>
+在windows选择项目的目录名称，然后拖到项目管理器中，项目管理器就会新增目录名称的项目
+### 运行到浏览器
+1.  manifest.json中appid为空
+<p >
+自己的appid，怎么获得？可能通过云端获得，点击后面的按钮
+</p>
 
+
+### 小程序运行
+
+## 发行
+### 网站-H5手机版
+ 1. 发行碰到的问题，static/js/chunk-vendors.2ad41823.js文件不存在
+### 
 ## 使用须知
 
 1. 页面样式主要在common/common.css
